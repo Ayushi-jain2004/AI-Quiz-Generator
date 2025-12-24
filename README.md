@@ -5,7 +5,7 @@ The application follows a client-server synthesis model, where the frontend (Str
 
 # Technical Implementation
 
-*Interface Layer: Developed with Streamlit, providing a reactive, state-driven user experience for real-time quiz interaction.
+* Interface Layer: Developed with Streamlit, providing a reactive, state-driven user experience for real-time quiz interaction.
 
 *Orchestration & Logic: Written in Python, managing the communication between the UI and the AI backend, including data cleaning and response parsing.
 
