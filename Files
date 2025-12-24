@@ -1,4 +1,4 @@
-File,Purpose
-app.py,Entry point; contains the Streamlit UI logic and state handling.
-requirements.txt,Dependency manifest for reproducible environment builds.
-.env.example,Secure template for environment-specific configuration.
+File, Purpose
+app.py, Entry point; contains the Streamlit UI logic and state handling.
+requirements.txt, Dependency manifest for reproducible environment builds.
+.env.example, Secure template for environment-specific configuration.
