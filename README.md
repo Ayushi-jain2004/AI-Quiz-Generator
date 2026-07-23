@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green)
+![Prompt](https://img.shields.io/badge/Prompt-Engineering-yellow)
 ## Live Demo : https://ai-quiz-generator-ajvfnzpwsfhsduqvecyg.streamlit.app/
 
 A robust, full-stack AI implementation designed to automate the pedagogical workflow of quiz creation. This application bridges the gap between raw information and structured learning by leveraging Large Language Models (LLMs) to generate contextually accurate Multiple Choice Questions (MCQs).
@@ -23,10 +24,3 @@ A robust, full-stack AI implementation designed to automate the pedagogical work
 * Stateful User Experience: Uses Python logic to track user scores and provide immediate feedback on answer selection.
 
 * Robust Error Handling: Designed to manage API interactions and ensure the application remains stable during data transmission.
-
-## Technologies Used
-
-- Python
-- Streamlit
-- OpenAI GPT-4o API
-- Prompt Engineering
