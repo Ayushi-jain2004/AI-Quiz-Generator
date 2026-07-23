@@ -6,10 +6,6 @@
 
 A robust, full-stack AI implementation designed to automate the pedagogical workflow of quiz creation. This application bridges the gap between raw information and structured learning by leveraging Large Language Models (LLMs) to generate contextually accurate Multiple Choice Questions (MCQs).
 
-## Application Preview
-
-![AI Quiz Generator](App.png)
-
 # Technical Architecture
 
 * Interface Layer: Developed with Streamlit, providing a reactive, state-driven user experience for real-time quiz interaction.
