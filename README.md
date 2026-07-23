@@ -23,3 +23,10 @@ A robust, full-stack AI implementation designed to automate the pedagogical work
 * Stateful User Experience: Uses Python logic to track user scores and provide immediate feedback on answer selection.
 
 * Robust Error Handling: Designed to manage API interactions and ensure the application remains stable during data transmission.
+
+## Technologies Used
+
+- Python
+- Streamlit
+- OpenAI GPT-4o API
+- Prompt Engineering
