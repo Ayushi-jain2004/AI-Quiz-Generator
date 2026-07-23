@@ -3,7 +3,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green)
 ![Prompt](https://img.shields.io/badge/Prompt-Engineering-yellow)
-## Live Demo : https://ai-quiz-generator-ajvfnzpwsfhsduqvecyg.streamlit.app/
+### Live Demo : https://ai-quiz-generator-ajvfnzpwsfhsduqvecyg.streamlit.app/
 
 A robust, full-stack AI implementation designed to automate the pedagogical workflow of quiz creation. This application bridges the gap between raw information and structured learning by leveraging Large Language Models (LLMs) to generate contextually accurate Multiple Choice Questions (MCQs).
 
